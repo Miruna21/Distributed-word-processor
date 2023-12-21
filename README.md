@@ -47,5 +47,5 @@ se comporta extrem de bine pe teste foarte mari(testele 4 si 5 dureaza 6
 respectiv 8 secunde pe codul secvential, iar pe solutia paralela - 1.8s si 2.5s).
 Testele mici par ca ruleaza cu 2 secunde mai mult pe solutia paralela decat
 pe cea secventiala, deoarece deschiderea si inchiderea thread-urilor este
-o actiune costisitoare pentru CPU si se adauaga acest timp in plus timpului finalul
+o actiune costisitoare pentru CPU si se adauga acest timp in plus timpului finalul
 de executie.
